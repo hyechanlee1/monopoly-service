@@ -9,7 +9,7 @@ This is the data service application for the
 It has the following read data route URLs:
 - `/` a hello message
 - `/players` a list of players
-- `/players/:id` a single player with the given ID
+- `/players/id` a single player with the given ID
 
 It is based on the standard Azure App Service tutorial for Node.js.
 
