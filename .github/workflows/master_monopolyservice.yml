@@ -59,4 +59,4 @@ jobs:
           app-name: 'Monopolyservice'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3A89E7F02704D1B9DF05C28F7F7F354 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_519FBBE19B834EE79EF7D721B581A09F }}
